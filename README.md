@@ -1,4 +1,4 @@
-# brik_Breakerz
+# Brik_Breakerz
 Brik_Breakerz is a simple brick breaking game written in x86 Assembly.
 
 # Requirements
